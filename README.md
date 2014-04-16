@@ -1,7 +1,7 @@
 TornNumber
 ==========
 
-The Torn Number Challenge
+Challenge #158 [Easy] The Torn Number
 
 ----------
 
